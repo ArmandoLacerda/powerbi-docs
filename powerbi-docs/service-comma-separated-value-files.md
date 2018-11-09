@@ -34,7 +34,7 @@ If you have a .CSV, it’s time to get it into your Power BI site as a dataset w
 
 ## Import or connect to a .CSV file
 >[!IMPORTANT]
->The maximum file size you can import into Power BI is 1 gigabyte.
+>Maximum file site can vary depending on the source. The maximum supported file size you can import into Power BI is 1 gigabyte.
 
 1. In Power BI, in the navigator pane, click **Get Data**.
    
