@@ -391,7 +391,7 @@ Now we can explore how to develop the custom visual to show a circle and sample 
 
     This code adds an SVG group inside the visual and then adds three shapes: a circle and two text elements.
 
-    To format the code in the document, right-select anywhere in the **Visual Studio Code document**, and then select **Format Document**.
+    To format the code in the document, right-click anywhere in the **Visual Studio Code document**, and then select **Format Document**.
 
       ![Format document](media/custom-visual-develop-tutorial/format-document.png)
 
